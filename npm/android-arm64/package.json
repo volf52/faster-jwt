@@ -1,0 +1,18 @@
+{
+  "name": "faster-jwt-android-arm64",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "faster-jwt.android-arm64.node",
+  "files": [
+    "faster-jwt.android-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
